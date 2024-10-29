@@ -1,4 +1,4 @@
-1. Question:
+- Question:
 What is the purpose of a compass rose on a map?
  
 1. To show colors
@@ -8,7 +8,7 @@ What is the purpose of a compass rose on a map?
  
 > Answer: 2. To indicate directions
  
-2. Question:
+- Question:
 What is the term for a map that shows physical features like mountains and rivers?
  
 1. Political map
@@ -18,7 +18,7 @@ What is the term for a map that shows physical features like mountains and river
 
 > Answer: 2. Topographic map
  
-3. Question:
+- Question:
 Which of the following represents a small area in great detail on a map?
  
 1. World map
@@ -28,7 +28,7 @@ Which of the following represents a small area in great detail on a map?
  
 > Answer: 2. City map
  
-4. Question:
+- Question:
 What does a map scale help you understand?
  
 1. The history of the area
@@ -38,7 +38,7 @@ What does a map scale help you understand?
 
 > Answer: 2. The distance between locations
  
-5. Question:
+- Question:
 What type of map would you use to find the borders of countries?
  
 1. Physical map
@@ -48,7 +48,7 @@ What type of map would you use to find the borders of countries?
 
 > Answer: 2. Political map
  
-6. Question:
+- Question:
 What do we call the imaginary line at 0 degrees longitude?
 
 1. Equator
@@ -58,7 +58,7 @@ What do we call the imaginary line at 0 degrees longitude?
  
 > Answer: 2. Prime Meridian
  
-7. Question:
+- Question:
 What is the term for a map that shows different climates in various regions?
 
 1. Geographical map
@@ -68,7 +68,7 @@ What is the term for a map that shows different climates in various regions?
  
 > Answer: 2. Climate map
  
-8. Question:
+- Question:
 Which feature on a map shows you where north is located?
 
 1. Scale
@@ -78,7 +78,7 @@ Which feature on a map shows you where north is located?
  
 > Answer: 3. Compass Rose
  
-9. Question:
+- Question:
 What is a map that shows roads and highways called?
 
 1. Topographic map
@@ -88,7 +88,7 @@ What is a map that shows roads and highways called?
  
 > Answer: 2. Road map
  
-10. Question:
+- Question:
 Which of the following is NOT a type of map?
  
 1. Relief map
