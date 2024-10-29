@@ -1,99 +1,99 @@
 1. Question:
 What is the purpose of a compass rose on a map?
  
-A. To show colors
-B. To indicate directions
-C. To display the legend
-D. To show distances
+1. To show colors
+2. To indicate directions
+3. To display the legend
+4. To show distances
  
-> Answer: B. To indicate directions
+> Answer: 2. To indicate directions
  
 2. Question:
 What is the term for a map that shows physical features like mountains and rivers?
  
-A. Political map
-B. Topographic map
-C. Road map
-D. Climate map
+1. Political map
+2. Topographic map
+3. Road map
+4. Climate map
 
-> Answer: B. Topographic map
+> Answer: 2. Topographic map
  
 3. Question:
 Which of the following represents a small area in great detail on a map?
  
-A. World map
-B. City map
-C. Country map
-D. Continent map
+1. World map
+2. City map
+3. Country map
+4. Continent map
  
-> Answer: B. City map
+> Answer: 2. City map
  
 4. Question:
 What does a map scale help you understand?
  
-A. The history of the area
-B. The distance between locations
-C. The elevation of mountains
-D. The climate of the region
+1. The history of the area
+2. The distance between locations
+3. The elevation of mountains
+4. The climate of the region
 
-> Answer: B. The distance between locations
+> Answer: 2. The distance between locations
  
 5. Question:
 What type of map would you use to find the borders of countries?
  
-A. Physical map
-B. Political map
-C. Weather map
-D. Historical map
+1. Physical map
+2. Political map
+3. Weather map
+4. Historical map
 
-> Answer: B. Political map
+> Answer: 2. Political map
  
 6. Question:
 What do we call the imaginary line at 0 degrees longitude?
 
-A. Equator
-B. Prime Meridian
-C. International Date Line
-D. Tropic of Cancer
+1. Equator
+2. Prime Meridian
+3. International Date Line
+4. Tropic of Cancer
  
-> Answer: B. Prime Meridian
+> Answer: 2. Prime Meridian
  
 7. Question:
 What is the term for a map that shows different climates in various regions?
 
-A. Geographical map
-B. Climate map
-C. Population map
-D. Economic map
+1. Geographical map
+2. Climate map
+3. Population map
+4. Economic map
  
-> Answer: B. Climate map
+> Answer: 2. Climate map
  
 8. Question:
 Which feature on a map shows you where north is located?
 
-A. Scale
-B. Legend
-C. Compass Rose
-D. Grid
+1. Scale
+2. Legend
+3. Compass Rose
+4. Grid
  
-> Answer: C. Compass Rose
+> Answer: 3. Compass Rose
  
 9. Question:
 What is a map that shows roads and highways called?
 
-A. Topographic map
-B. Road map
-C. Political map
-D. Satellite map
+1. Topographic map
+2. Road map
+3. Political map
+4. Satellite map
  
-> Answer: B. Road map
+> Answer: 2. Road map
  
 10. Question:
 Which of the following is NOT a type of map?
  
-A. Relief map
-B. Digital map
-C. Narrative map
-D. Historical map
+1. Relief map
+2. Digital map
+3. Narrative map
+4. Historical map
  
-> Answer: C. Narrative map
+> Answer: 3. Narrative map
