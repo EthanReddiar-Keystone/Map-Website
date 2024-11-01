@@ -166,17 +166,17 @@ Which of the following is NOT a type of map?
 #### Themes
 
 I have come up with a couple themes:
-- ![./Images/Color Palette 1.png]
-- ![./Images/Color Palette 2.png]
-- ![./Images/Color Palette 3.png]
+- ![Color Palette 1](https://github.com/EthanReddiar-Keystone/Map-Website/blob/main/Evidence/Images/Color%20Palette%201.png?raw=true)
+- ![Color Palette 2](https://github.com/EthanReddiar-Keystone/Map-Website/blob/main/Evidence/Images/Color%20Palette%202.png?raw=true)
+- ![Color Palette 3](https://github.com/EthanReddiar-Keystone/Map-Website/blob/main/Evidence/Images/Color%20Palette%203.png?raw=true)
 
 I plan to itterate on these three, selecting the best one for the final site.
 
 #### Website Layout
 
-I am using a website called [https://www.excalidraw.com|excalidraw] to draw some
-mockups of the website layout, finally settling on:
+I am using a website called [Excalidraw](https://www.excalidraw.com) to draw 
+some mockups of the website layout, finally settling on:
 
-![./Images/0. Planning.png]
+![Planning](https://github.com/EthanReddiar-Keystone/Map-Website/blob/main/Evidence/Images/0.%20Planning.png?raw=true)
 
 This has annotations on it explaining in detail each component. 
