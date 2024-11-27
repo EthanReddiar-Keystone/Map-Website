@@ -311,7 +311,7 @@ function renderMosaics() {
     for (var i = 0; i < questionsJSON.questions.length - wrongAnswers; i++) {
         var mosaic = document.createElement("div");
         mosaic.className = "Mosaic-Image";
-        mosaic.style.backgroundImage = "url(../map-website/Assets/MEDALS/" + (i + 1) + ".JPG)";
+        mosaic.style.backgroundImage = "url(../Map-Website/Assets/MEDALS/" + (i + 1) + ".JPG)";
         mosaic.style.backgroundSize = "cover";
         mosaic.style.backgroundPosition = "center";
         mosaic.style.backgroundRepeat = "no-repeat";
